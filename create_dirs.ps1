@@ -1,0 +1,1 @@
+2..24 | ForEach-Object { mkdir chapt$($_.ToString("00")) }
